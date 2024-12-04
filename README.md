@@ -8,5 +8,5 @@ Will need to have the following libraries installed (library imports occur in Ce
 
 This program compares two ML algorithms (KNN and Naive Bayes, both implemented from scratch). Previous coursework in EEL4930 - Applied Machine Learning Systems and CIS4930 - Intro to Machine Learning were used as references to help facilitate Data Exploration, Data Preprocessing, and Comparison Visualization.
 
-This program gets the user to select a song from the dataset, and using KNN and Naive Bayes algorithms, recommends 3 songs from each algorithm. Euclidean Distance is used as the comparison metric to determine the most closely linked song. Cosine Similarity, Manhattan Distance, Hamming Distance, and Correlation Distance are used as additional ways of visualizing the results.
+This program gets the user to select a song from the dataset, and using KNN and Naive Bayes algorithms, recommends 3 songs from each algorithm. Euclidean Distance is used as the comparison metric to determine the most closely linked song. Cosine Similarity, Manhattan Distance, Hamming Distance, and Correlation Distance are used as additional ways of visualizing the results and comparing algorithm performance.
 
