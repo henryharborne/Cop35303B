@@ -5,7 +5,6 @@ Will need to have the following libraries installed (library imports occur in Ce
  	Numpy
   	sklearn
    	Matplotlib
-    	Seaborn
 
 This program compares two ML algorithms (KNN and Naive Bayes, both implemented from scratch). Previous coursework in EEL4930 - Applied Machine Learning Systems and CIS4930 - Intro to Machine Learning were used as references to help facilitate Data Exploration, Data Preprocessing, and Comparison Visualization.
 
